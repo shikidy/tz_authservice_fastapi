@@ -30,6 +30,7 @@
 4. Запускаем тесты 
 
     ```uv run pytest```
+<img width="468" height="189" alt="image" src="https://github.com/user-attachments/assets/80537936-c3fa-47ea-85ee-aad61bad1038" />
 
 ## О проекте
 
