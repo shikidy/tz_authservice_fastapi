@@ -7,7 +7,7 @@
 
 1. Клонируем репозиторий
 
-    ```git clone https://{здесь ссылокчку}```
+    ```git clone https://github.com/shikidy/tz_authservice_fastapi```
 
 2. Генерируем ключи для access и refresh токенов, после чего вставляем в .env.
 
@@ -21,7 +21,7 @@
 
 1. Клонируем репозиторий
 
-    ```git clone https://{здесь ссылочку}```
+    ```git clone https://github.com/shikidy/tz_authservice_fastapi```
 
 2. Генерируем ключи для access и refresh токенов, после чего вставляем в .env.
 
